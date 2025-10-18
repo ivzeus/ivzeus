@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[556,["177","static/chunks/app/layout-73006f6147827dc5.js"],"AuthProvider"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[3486,["742","static/chunks/742-57c34a203522b5cc.js","464","static/chunks/464-3cc6b18d1f60e629.js","500","static/chunks/500-9ea5af5eeea8ad95.js","345","static/chunks/app/not-found-b5e06977e61c3079.js"],"default"]
+6:"$Sreact.suspense"
+7:I[1246,["742","static/chunks/742-57c34a203522b5cc.js","464","static/chunks/464-3cc6b18d1f60e629.js","624","static/chunks/624-c3fea43fbaf01674.js","587","static/chunks/587-b3fa9d286eca9e9e.js","948","static/chunks/948-0f749ca3ae987f97.js","602","static/chunks/app/quiz/page-15276db78e2b9a48.js"],"default"]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+10:I[7150,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/3f9e8076a892817a.css","style"]
+0:{"P":null,"b":"cmu-r_052njUJ3mpNQ5CW","p":"","c":["","quiz",""],"i":false,"f":[[["",{"children":["quiz",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f9e8076a892817a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["quiz",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"children":["$","$6",null,{"fallback":["$","div",null,{"children":"Loading quiz parameters..."}],"children":["$","$L7",null,{}]}]}],null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$6",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+11:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Quiz"}],["$","meta","1",{"name":"description","content":"Simple Quiz app"}],["$","link","2",{"rel":"icon","href":"/ivzeus/quiz/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L11","3",{}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"
