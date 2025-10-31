@@ -1,12 +1,12 @@
 [
   {
-    "quizId": "cryptoGraphyQuiz",
+    "quizId": "cryptographyQuiz",
     "quizName": "30 Multiple-Choice Questions on Cryptography",
     "description": "30 random review questions covering fundamental cryptographic concepts, algorithms, and security applications. Use passphrase 'crypto' to enter",
     "questionPerTest": 10,
     "testTimeSeconds": 600,
     "encryption": {
-      "challenge": "9vGlg8lOMww9h1iyRLdii3pXOpxtpPULnX1hVRAFCTo=",
+      "challenge": "9vGlg8lOEww9h1iyRLdii8yAv6iPDiGqW7OI1LXJnOA=",
       "salt": "oxqLr7iI9woGJ67w9L08Yg==",
       "iv": "iW/yiYXKCwLYxhB/",
       "keyDerivation": "PBKDF2",
