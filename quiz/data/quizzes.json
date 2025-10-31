@@ -1,6 +1,6 @@
 [
   {
-    "quizId": "cryptoGraphyQuiz",
+    "quizId": "cryptographyQuiz",
     "quizName": "30 Multiple-Choice Questions on Cryptography",
     "description": "30 random review questions covering fundamental cryptographic concepts, algorithms, and security applications. Use passphrase 'crypto' to enter",
     "questionPerTest": 10,
