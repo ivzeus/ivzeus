@@ -1,0 +1,505 @@
+{
+  "quizId": "computerITSyllabus",
+  "quizName": "50 Multiple-Choice Questions on Computer Science/IT",
+  "description": "50 general review questions covering Hardware, Software, Networking, and Cybersecurity.",
+  "questionPerTest": 20,
+  "testTimeSeconds": 600,
+  "questionaire": [],
+  "questionaireDb": [
+    {
+      "questionId": "IT1",
+      "question": "What does the acronym **CPU** stand for?",
+      "options": [
+        "A. Computer Power Unit",
+        "B. Central Processing Unit",
+        "C. Control Program Utility",
+        "D. Core Performance Upgrade"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT2",
+      "question": "Which component is considered the **'brain'** of the computer, performing most calculations?",
+      "options": ["A. RAM", "B. Motherboard", "C. CPU", "D. GPU"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT3",
+      "question": "Which type of memory is considered **volatile** (loses data when power is removed)?",
+      "options": [
+        "A. ROM",
+        "B. SSD",
+        "C. Hard Disk Drive (HDD)",
+        "D. Random Access Memory (RAM)"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT4",
+      "question": "What unit is typically used to measure the clock speed of a CPU?",
+      "options": [
+        "A. Byte",
+        "B. Gigahertz (GHz)",
+        "C. Megapixel (MP)",
+        "D. Decibel (dB)"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT5",
+      "question": "Which physical connection port is typically used for wired network cables (Ethernet)?",
+      "options": ["A. HDMI", "B. USB", "C. RJ-45", "D. VGA"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT6",
+      "question": "Which storage device contains no moving mechanical parts?",
+      "options": [
+        "A. Hard Disk Drive (HDD)",
+        "B. Optical Disc (CD/DVD)",
+        "C. Solid State Drive (SSD)",
+        "D. Floppy Disk"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT7",
+      "question": "What is the main circuit board that connects all other hardware components of a computer called?",
+      "options": [
+        "A. Graphics Card",
+        "B. Motherboard",
+        "C. Power Supply Unit (PSU)",
+        "D. Sound Card"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT8",
+      "question": "What does the acronym **ROM** stand for?",
+      "options": [
+        "A. Random Output Memory",
+        "B. Read-Only Memory",
+        "C. Resource Optimization Module",
+        "D. Register of Mainframe"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT9",
+      "question": "What is a **pixel** in digital display?",
+      "options": [
+        "A. A unit for measuring color saturation.",
+        "B. The largest element of a picture.",
+        "C. The smallest element of a display screen or digital image.",
+        "D. A type of screen connector port."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT10",
+      "question": "Among the following storage units, which one is the largest? (Ascending order: KB, MB, GB, TB)",
+      "options": [
+        "A. Megabyte (MB)",
+        "B. Kilobyte (KB)",
+        "C. Terabyte (TB)",
+        "D. Gigabyte (GB)"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT11",
+      "question": "What is the primary function of an **Operating System (OS)**?",
+      "options": [
+        "A. Designing graphics and 3D models.",
+        "B. Managing hardware and software resources, and providing a user interface.",
+        "C. Playing online video games.",
+        "D. Translating programming code into machine code."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT12",
+      "question": "Which Operating System is known for being **open-source**?",
+      "options": ["A. Windows", "B. macOS", "C. iOS", "D. Linux"],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT13",
+      "question": "What does the acronym **GUI** stand for?",
+      "options": [
+        "A. General User Integration",
+        "B. Graphical Utility Identifier",
+        "C. Global Unique Interface",
+        "D. Graphical User Interface"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT14",
+      "question": "Software that can be used, modified, and shared freely is referred to as:",
+      "options": [
+        "A. Shareware",
+        "B. Proprietary Software",
+        "C. Open Source Software",
+        "D. Freeware"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT15",
+      "question": "Which system utility is used to rearrange fragmented data on a hard disk drive to improve access speed?",
+      "options": [
+        "A. Task Manager",
+        "B. Disk Cleanup",
+        "C. Defragmenter",
+        "D. File Explorer"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT16",
+      "question": "Which programming language is primarily used for **styling** web pages?",
+      "options": ["A. JavaScript", "B. HTML", "C. CSS", "D. Python"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT17",
+      "question": "What is the main function of a **compiler**?",
+      "options": [
+        "A. To create a user interface.",
+        "B. To translate the entire high-level source code into machine code before execution.",
+        "C. To manage databases.",
+        "D. To browse and display web pages."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT18",
+      "question": "The core component of the Operating System that manages system operations is called the:",
+      "options": ["A. Shell", "B. Application", "C. Kernel", "D. Driver"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT19",
+      "question": "In programming, what is a **variable**?",
+      "options": [
+        "A. A command to exit the program.",
+        "B. A storage area in memory used to hold a value.",
+        "C. A type of syntax error.",
+        "D. A complex mathematical function."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT20",
+      "question": "The ability of an Operating System to run multiple programs concurrently is called:",
+      "options": [
+        "A. Single-tasking",
+        "B. Multiprocessing",
+        "C. Multitasking",
+        "D. Virtualization"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT21",
+      "question": "What does the acronym **IP** stand for in computer networking?",
+      "options": [
+        "A. Internet Platform",
+        "B. Internal Protocol",
+        "C. Internet Process",
+        "D. Internet Protocol"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT22",
+      "question": "Which device connects multiple computers in a local area network (LAN) and routes data based on MAC addresses?",
+      "options": ["A. Router", "B. Modem", "C. Hub", "D. Switch"],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT23",
+      "question": "What is the main function of a **Router**?",
+      "options": [
+        "A. Only storing local data.",
+        "B. Connecting different networks (e.g., home network to the Internet).",
+        "C. Providing power to network devices.",
+        "D. Translating programming code."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT24",
+      "question": "Which standard network port is used for the **HTTPS** protocol?",
+      "options": ["A. 80", "B. 21", "C. 443", "D. 23"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT25",
+      "question": "What is a **firewall**?",
+      "options": [
+        "A. A type of antivirus software.",
+        "B. A network security system that controls incoming and outgoing network traffic.",
+        "C. A type of computer virus.",
+        "D. A device that boosts Wi-Fi signals."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT26",
+      "question": "In the OSI model, which layer is responsible for the physical transmission of data over the communication medium?",
+      "options": [
+        "A. Application Layer",
+        "B. Network Layer",
+        "C. Physical Layer",
+        "D. Transport Layer"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT27",
+      "question": "What does the acronym **WWW** stand for?",
+      "options": [
+        "A. Wired World Web",
+        "B. Wide Web Wonders",
+        "C. World Wide Web",
+        "D. Wireless Web Working"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT28",
+      "question": "Which protocol is used for transmitting web pages over the Internet?",
+      "options": [
+        "A. FTP (File Transfer Protocol)",
+        "B. SMTP (Simple Mail Transfer Protocol)",
+        "C. HTTP (Hypertext Transfer Protocol)",
+        "D. POP3 (Post Office Protocol version 3)"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT29",
+      "question": "What is the unique identifier address assigned to a network interface card (NIC)?",
+      "options": [
+        "A. IP Address",
+        "B. MAC Address",
+        "C. URL",
+        "D. Subnet Mask"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT30",
+      "question": "How does a Wide Area Network (WAN) differ from a Local Area Network (LAN)?",
+      "options": [
+        "A. WAN only uses wireless connections.",
+        "B. WAN covers a larger geographical area than a LAN.",
+        "C. WAN is much slower than a LAN.",
+        "D. LAN is only used for personal purposes."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT31",
+      "question": "**Phishing** is a fraudulent practice aimed at:",
+      "options": [
+        "A. Improving network speed.",
+        "B. Providing free software.",
+        "C. Tricking users into revealing sensitive information (passwords, credit cards).",
+        "D. Sending promotional emails."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT32",
+      "question": "What type of malware records keystrokes entered by the user?",
+      "options": ["A. Ransomware", "B. Keylogger", "C. Adware", "D. Spyware"],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT33",
+      "question": "The process of converting data into a coded form so that only authorized parties can access it is called:",
+      "options": [
+        "A. Compression",
+        "B. Authentication",
+        "C. Encryption",
+        "D. Decoding"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT34",
+      "question": "What is a **Trojan horse**?",
+      "options": [
+        "A. An effective antivirus program.",
+        "B. A type of malware disguised as legitimate software.",
+        "C. A network protocol for file transfer.",
+        "D. A type of firewall."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT35",
+      "question": "What is the best practice to prepare for data recovery in case of system failure?",
+      "options": [
+        "A. Turning off the computer often.",
+        "B. Installing multiple antivirus programs.",
+        "C. Performing regular data backup.",
+        "D. Only using SSDs."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT36",
+      "question": "What are the characteristics of a **strong password**?",
+      "options": [
+        "A. Uses only lowercase letters.",
+        "B. Short and easy to remember.",
+        "C. Long, and combines multiple character types (uppercase, lowercase, numbers, symbols).",
+        "D. Uses a pet's name or a birth date."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT37",
+      "question": "What does the acronym **VPN** stand for?",
+      "options": [
+        "A. Virtual Privacy Network",
+        "B. Vector Processing Node",
+        "C. Virtual Private Network",
+        "D. Very Personal Network"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT38",
+      "question": "Which security method requires two different verification factors to access an account?",
+      "options": [
+        "A. Single Sign-On (SSO)",
+        "B. Two-Factor Authentication (2FA)",
+        "C. Biometric Scanning",
+        "D. Firewall Protection"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT39",
+      "question": "The process of making a program work more efficiently, faster, and use fewer resources is called:",
+      "options": [
+        "A. Debugging",
+        "B. Documentation",
+        "C. Optimization",
+        "D. Compilation"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT40",
+      "question": "Which type of cyberattack attempts to overload a server with massive traffic from multiple sources?",
+      "options": [
+        "A. SQL Injection",
+        "B. Cross-Site Scripting (XSS)",
+        "C. Denial-of-Service (DoS) Attack",
+        "D. Phishing"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT41",
+      "question": "Which markup language is the core technology used to **structure content** on the web?",
+      "options": ["A. JavaScript", "B. HTML", "C. Python", "D. PHP"],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT42",
+      "question": "Which programming language is often called the 'language of the web' for its ability to create **interactivity** on web pages?",
+      "options": ["A. C#", "B. Java", "C. SQL", "D. JavaScript"],
+      "answers": [3]
+    },
+    {
+      "questionId": "IT43",
+      "question": "What does the acronym **SQL** stand for?",
+      "options": [
+        "A. System Query Logic",
+        "B. Standard Question Language",
+        "C. Structured Query Language",
+        "D. Sequence Universal Logic"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT44",
+      "question": "In a database, what is the function of a **primary key**?",
+      "options": [
+        "A. Used for sorting data.",
+        "B. Links the table to other tables.",
+        "C. A field with a unique value to identify a record.",
+        "D. Grants access to the database."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT45",
+      "question": "What does the acronym **IDE** stand for in programming?",
+      "options": [
+        "A. Internet Data Exchange",
+        "B. Integrated Development Environment",
+        "C. Input Data Emulator",
+        "D. Information Decoding Engine"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "IT46",
+      "question": "Which system is used to manage changes to documents, computer programs, or other large collections of information over time?",
+      "options": [
+        "A. Database Management System",
+        "B. Cloud Storage",
+        "C. Version Control System",
+        "D. Operating System"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT47",
+      "question": "In Object-Oriented Programming (OOP), what is a **class**?",
+      "options": [
+        "A. An object that has already been created.",
+        "B. A syntax error.",
+        "C. A blueprint for creating objects.",
+        "D. A type of variable that only holds numbers."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT48",
+      "question": "The process of finding and fixing errors in program code is called:",
+      "options": [
+        "A. Compilation",
+        "B. Optimization",
+        "C. Debugging",
+        "D. Documentation"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT49",
+      "question": "Which tag is used to create a **hyperlink** in HTML?",
+      "options": ["A. `<link>`", "B. `<href>`", "C. `<a>`", "D. `<hyper>`"],
+      "answers": [2]
+    },
+    {
+      "questionId": "IT50",
+      "question": "In computer science, what is the **boolean** data type?",
+      "options": [
+        "A. An integer (whole number).",
+        "B. A single character.",
+        "C. A value that can only be True or False.",
+        "D. A string of text."
+      ],
+      "answers": [2]
+    }
+  ]
+}

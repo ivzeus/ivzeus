@@ -1,0 +1,530 @@
+{
+  "quizId": "astrophysics",
+  "quizName": "50 Multiple-Choice Questions on Astrophysics",
+  "description": "50 random review questions covering stellar structure, cosmology, and celestial objects.",
+  "questionPerTest": 20,
+  "testTimeSeconds": 600,
+  "questionaire": [],
+  "questionaireDb": [
+    {
+      "questionId": "AP1",
+      "question": "The primary energy source for stars on the main sequence, like our Sun, is:",
+      "options": [
+        "A. Gravitational contraction",
+        "B. Fission of heavy elements",
+        "C. Fusion of hydrogen into helium",
+        "D. Beta decay"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP2",
+      "question": "What is the **Chandrasekhar Limit**?",
+      "options": [
+        "A. The maximum mass of a neutron star",
+        "B. The maximum mass of a white dwarf star",
+        "C. The minimum mass required for hydrogen fusion to begin",
+        "D. The maximum redshift of a galaxy"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP3",
+      "question": "The shift of spectral lines toward the red end of the spectrum for distant galaxies is evidence for:",
+      "options": [
+        "A. The cooling of the universe",
+        "B. The contraction of the universe",
+        "C. The expansion of the universe",
+        "D. Gravitational lensing"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP4",
+      "question": "A **light-year** is a unit of:",
+      "options": ["A. Time", "B. Acceleration", "C. Distance", "D. Luminosity"],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP5",
+      "question": "The **H-R Diagram** plots a star's luminosity against its:",
+      "options": [
+        "A. Mass",
+        "B. Radial velocity",
+        "C. Age",
+        "D. Surface temperature (or spectral type)"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "AP6",
+      "question": "What is the remnant of a high-mass star (greater than $\\sim 8$ solar masses) after a supernova explosion?",
+      "options": [
+        "A. White Dwarf",
+        "B. Brown Dwarf",
+        "C. Neutron Star or Black Hole",
+        "D. Planetary Nebula"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP7",
+      "question": "The Cosmic Microwave Background (CMB) radiation is considered evidence for the:",
+      "options": [
+        "A. Steady-State theory",
+        "B. Big Bang theory",
+        "C. Multiverse theory",
+        "D. Heliocentric model"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP8",
+      "question": "Which force prevents the complete gravitational collapse of a **white dwarf**?",
+      "options": [
+        "A. Thermal pressure",
+        "B. Electron degeneracy pressure",
+        "C. Neutron degeneracy pressure",
+        "D. Magnetic force"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP9",
+      "question": "The Milky Way is classified as which type of galaxy?",
+      "options": [
+        "A. Elliptical",
+        "B. Irregular",
+        "C. Spiral",
+        "D. Lenticular"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP10",
+      "question": "What determines whether a massive star collapses into a neutron star or a black hole?",
+      "options": [
+        "A. Its chemical composition",
+        "B. Its age",
+        "C. Its mass after the supernova (core mass)",
+        "D. Its rotation speed"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP11",
+      "question": "What is the term for the distance at which an observer sees the parallax of a star to be exactly one arcsecond?",
+      "options": [
+        "A. Light-year",
+        "B. Astronomical Unit (AU)",
+        "C. Parsec",
+        "D. Kiloparsec"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP12",
+      "question": "According to **Kepler's Second Law** (Law of Equal Areas), a planet moves fastest when it is:",
+      "options": [
+        "A. Farthest from the Sun (aphelion)",
+        "B. Closest to the Sun (perihelion)",
+        "C. Exactly halfway between aphelion and perihelion",
+        "D. In retrograde motion"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP13",
+      "question": "What is the minimum temperature required for sustained hydrogen fusion in a stellar core?",
+      "options": [
+        "A. $\\sim 1.5$ million Kelvin",
+        "B. $\\sim 15$ million Kelvin",
+        "C. $\\sim 150$ million Kelvin",
+        "D. $\\sim 1.5$ billion Kelvin"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP14",
+      "question": "The observed variation in the rotational speed of stars within a galaxy, suggesting more mass than visible, is evidence for:",
+      "options": [
+        "A. Dark Energy",
+        "B. Dark Matter",
+        "C. Black Holes",
+        "D. Planetary Nebulae"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP15",
+      "question": "What phenomenon is used to discover exoplanets by detecting the dip in a star's brightness as the planet passes in front of it?",
+      "options": [
+        "A. Radial velocity method",
+        "B. Gravitational lensing",
+        "C. Transit method",
+        "D. Astrometry"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP16",
+      "question": "The **Event Horizon** of a black hole defines:",
+      "options": [
+        "A. The point of singularity",
+        "B. The boundary from which nothing, not even light, can escape",
+        "C. The area where X-rays are emitted",
+        "D. The accretion disk"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP17",
+      "question": "Which spectral class of stars has the highest surface temperature?",
+      "options": ["A. K", "B. G", "C. O", "D. M"],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP18",
+      "question": "What element is the fusion product in the core of a star just before it goes supernova (assuming it's massive enough)?",
+      "options": ["A. Carbon", "B. Silicon", "C. Oxygen", "D. Iron"],
+      "answers": [3]
+    },
+    {
+      "questionId": "AP19",
+      "question": "The **Hubble Constant** ($H_0$) relates a galaxy's recessional velocity to its:",
+      "options": ["A. Mass", "B. Luminosity", "C. Distance", "D. Age"],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP20",
+      "question": "What is the primary factor that determines the main-sequence lifetime of a star?",
+      "options": [
+        "A. Its chemical composition",
+        "B. Its initial mass",
+        "C. Its galactic location",
+        "D. Its magnetic field strength"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP21",
+      "question": "A **pulsar** is a rapidly rotating, highly magnetized:",
+      "options": [
+        "A. White dwarf",
+        "B. Black hole",
+        "C. Neutron star",
+        "D. Quasar"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP22",
+      "question": "The **cosmological principle** states that on large scales, the universe is:",
+      "options": [
+        "A. Static and finite",
+        "B. Isotropic and homogeneous",
+        "C. Flat and accelerating",
+        "D. Primarily composed of Dark Matter"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP23",
+      "question": "What is the term for the outer layer of the Sun's atmosphere that is visible during a total solar eclipse?",
+      "options": [
+        "A. Photosphere",
+        "B. Chromosphere",
+        "C. Corona",
+        "D. Convective zone"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP24",
+      "question": "What phenomenon causes the seasons on Earth?",
+      "options": [
+        "A. The changing distance between the Earth and the Sun",
+        "B. The precession of Earth's axis",
+        "C. The tilt of Earth's rotation axis (obliquity)",
+        "D. Changes in the Sun's magnetic activity"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP25",
+      "question": "The process by which elements heavier than Helium are created inside stars is known as:",
+      "options": [
+        "A. Nuclear Fission",
+        "B. Photodisintegration",
+        "C. Nucleosynthesis",
+        "D. Ionization"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP26",
+      "question": "The phase of stellar evolution that our Sun will enter after the main sequence is the:",
+      "options": [
+        "A. White dwarf phase",
+        "B. Red giant phase",
+        "C. Supernova phase",
+        "D. Black hole phase"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP27",
+      "question": "Which of these is **NOT** a type of electromagnetic radiation?",
+      "options": [
+        "A. Gamma rays",
+        "B. Cosmic rays",
+        "C. Radio waves",
+        "D. Ultraviolet light"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP28",
+      "question": "The greatest distance of a planet from the Sun in its orbit is called:",
+      "options": ["A. Perihelion", "B. Aphelion", "C. Perigee", "D. Apogee"],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP29",
+      "question": "What type of galaxy is characterized by a smooth, featureless, spheroidal shape?",
+      "options": [
+        "A. Spiral",
+        "B. Irregular",
+        "C. Elliptical",
+        "D. Barred Spiral"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP30",
+      "question": "The term **Quasar** is short for:",
+      "options": [
+        "A. Quantum Star",
+        "B. Quasi-stellar Radio Source",
+        "C. Quartz Star",
+        "D. Quick Stellar Assembly"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP31",
+      "question": "What is the approximate age of the universe, based on current cosmological models?",
+      "options": [
+        "A. 4.6 billion years",
+        "B. 13.8 billion years",
+        "C. 20 billion years",
+        "D. 1.38 trillion years"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP32",
+      "question": "The total energy radiated by a star per second is called its:",
+      "options": [
+        "A. Apparent magnitude",
+        "B. Flux",
+        "C. Luminosity",
+        "D. Brightness"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP33",
+      "question": "The study of the formation and development of the universe is called:",
+      "options": [
+        "A. Astrometry",
+        "B. Cosmology",
+        "C. Exobiology",
+        "D. Planetology"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP34",
+      "question": "The Sun's core temperature is about 15 million Kelvin. What is its surface temperature?",
+      "options": [
+        "A. 1,500 K",
+        "B. 5,800 K",
+        "C. 10,000 K",
+        "D. 1.5 million K"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP35",
+      "question": "Which effect is used to measure the radial velocity of a star (its motion towards or away from us)?",
+      "options": [
+        "A. Photoelectric effect",
+        "B. Zeeman effect",
+        "C. Doppler effect",
+        "D. Gravitational redshift"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP36",
+      "question": "The **Oort Cloud** is primarily composed of:",
+      "options": [
+        "A. Asteroids and rocks",
+        "B. Icy bodies and comets",
+        "C. Planets and moons",
+        "D. Gas and dust"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP37",
+      "question": "What is the phenomenon where light from a distant galaxy is magnified and distorted by the gravity of an intervening mass?",
+      "options": [
+        "A. Aberration",
+        "B. Refraction",
+        "C. Gravitational Lensing",
+        "D. Parallax"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP38",
+      "question": "The discovery of what led to the conclusion that the expansion of the universe is accelerating?",
+      "options": [
+        "A. Type Ia Supernovae",
+        "B. The Cosmic Microwave Background",
+        "C. Globular Clusters",
+        "D. Gamma-Ray Bursts"
+      ],
+      "answers": [0]
+    },
+    {
+      "questionId": "AP39",
+      "question": "The planet with the most extensive and visible ring system in our solar system is:",
+      "options": ["A. Jupiter", "B. Uranus", "C. Neptune", "D. Saturn"],
+      "answers": [3]
+    },
+    {
+      "questionId": "AP40",
+      "question": "What is the primary method used to measure the distances to nearby stars (up to a few hundred parsecs)?",
+      "options": [
+        "A. Standard candles (e.g., Type Ia Supernovae)",
+        "B. Cepheid variables",
+        "C. Stellar parallax",
+        "D. Hubble's Law"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP41",
+      "question": "The boundary around the Earth's magnetic field that protects us from the solar wind is the:",
+      "options": [
+        "A. Magnetosphere",
+        "B. Ionosphere",
+        "C. Troposphere",
+        "D. Oort Cloud"
+      ],
+      "answers": [0]
+    },
+    {
+      "questionId": "AP42",
+      "question": "Stars spend approximately 90% of their lives in which stage of evolution?",
+      "options": [
+        "A. Red Giant branch",
+        "B. Planetary Nebula phase",
+        "C. Main Sequence",
+        "D. White Dwarf phase"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP43",
+      "question": "The theoretical maximum mass for a neutron star, beyond which it must collapse into a black hole, is known as the:",
+      "options": [
+        "A. Oppenheimer-Volkoff Limit",
+        "B. Eddington Limit",
+        "C. Chandrasekhar Limit",
+        "D. Schönberg-Chandrasekhar Limit"
+      ],
+      "answers": [0]
+    },
+    {
+      "questionId": "AP44",
+      "question": "The study of the physical nature of celestial bodies and the processes occurring in them is called:",
+      "options": [
+        "A. Astronomy",
+        "B. Astrobiology",
+        "C. Geophysics",
+        "D. Astrophysics"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "AP45",
+      "question": "What is the term for a small solar system body that orbits the Sun but is too small to be classified as a planet, and is not a comet?",
+      "options": [
+        "A. Meteoroid",
+        "B. Asteroid",
+        "C. TNO (Trans-Neptunian Object)",
+        "D. Exoplanet"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP46",
+      "question": "The phenomenon of **stellar parallax** is due to:",
+      "options": [
+        "A. The star's own motion in space",
+        "B. The tilt of the Earth's axis",
+        "C. The Earth's orbit around the Sun",
+        "D. Gravitational forces from nearby planets"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP47",
+      "question": "A group of millions of stars held together by mutual gravity is typically called a:",
+      "options": [
+        "A. Nebulae",
+        "B. Solar System",
+        "C. Globular Cluster",
+        "D. Open Cluster"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "AP48",
+      "question": "What kind of star is formed when a protostar cannot reach the temperature needed for hydrogen fusion in its core?",
+      "options": [
+        "A. Red Dwarf",
+        "B. Brown Dwarf",
+        "C. White Dwarf",
+        "D. T Tauri Star"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "AP49",
+      "question": "The **ecliptic** is the plane of:",
+      "options": [
+        "A. The Milky Way galaxy",
+        "B. The Earth's equator projected onto the celestial sphere",
+        "C. The Moon's orbit around the Earth",
+        "D. The Earth's orbit around the Sun"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "AP50",
+      "question": "Which component is believed to make up the largest percentage of the total energy density of the universe?",
+      "options": [
+        "A. Dark Matter",
+        "B. Visible Matter (Baryons)",
+        "C. Dark Energy",
+        "D. Neutrinos"
+      ],
+      "answers": [2]
+    }
+  ]
+}

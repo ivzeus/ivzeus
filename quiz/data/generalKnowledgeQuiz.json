@@ -1,0 +1,435 @@
+{
+  "quizId": "generalKnowledge",
+  "quizName": "50 Multiple-Choice Questions on General Knowledge",
+  "description": "50 random review questions covering history, science, geography, arts, and culture.",
+  "questionPerTest": 30,
+  "testTimeSeconds": 3000,
+  "questionaire": [],
+  "questionaireDb": [
+    {
+      "questionId": "GK1",
+      "question": "Which ancient wonder was a massive lighthouse located in Egypt?",
+      "options": [
+        "A. The Great Pyramid of Giza",
+        "B. The Colossus of Rhodes",
+        "C. The Lighthouse of Alexandria",
+        "D. The Hanging Gardens of Babylon"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK2",
+      "question": "In which city is the famous artwork 'Mona Lisa' housed?",
+      "options": ["A. London", "B. Rome", "C. Paris", "D. Florence"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK3",
+      "question": "What is the largest organ of the human body?",
+      "options": ["A. Heart", "B. Liver", "C. Skin", "D. Brain"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK4",
+      "question": "Which country is home to the largest number of pyramids?",
+      "options": ["A. Egypt", "B. Mexico", "C. Sudan", "D. Peru"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK5",
+      "question": "Who developed the theory of relativity?",
+      "options": [
+        "A. Isaac Newton",
+        "B. Albert Einstein",
+        "C. Stephen Hawking",
+        "D. Galileo Galilei"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK6",
+      "question": "The chemical symbol for Gold is:",
+      "options": ["A. Ag", "B. Fe", "C. Au", "D. Gd"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK7",
+      "question": "What is the capital city of Australia?",
+      "options": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Perth"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK8",
+      "question": "The process by which plants convert sunlight into energy is called:",
+      "options": [
+        "A. Respiration",
+        "B. Transpiration",
+        "C. Photosynthesis",
+        "D. Fermentation"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK9",
+      "question": "Who was the first person to step on the Moon?",
+      "options": [
+        "A. Buzz Aldrin",
+        "B. Yuri Gagarin",
+        "C. Neil Armstrong",
+        "D. Michael Collins"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK10",
+      "question": "Which ocean is the largest and deepest?",
+      "options": [
+        "A. Atlantic Ocean",
+        "B. Indian Ocean",
+        "C. Southern Ocean",
+        "D. Pacific Ocean"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "GK11",
+      "question": "The novel 'To Kill a Mockingbird' was written by:",
+      "options": [
+        "A. F. Scott Fitzgerald",
+        "B. Harper Lee",
+        "C. Ernest Hemingway",
+        "D. Mark Twain"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK12",
+      "question": "Which mountain is the highest in the world?",
+      "options": [
+        "A. K2",
+        "B. Mount Everest",
+        "C. Mount Kilimanjaro",
+        "D. Mount McKinley (Denali)"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK13",
+      "question": "The term **'Renaissance'** literally means:",
+      "options": [
+        "A. Great Change",
+        "B. Rebirth",
+        "C. Enlightenment",
+        "D. New World"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK14",
+      "question": "How many sides does a heptagon have?",
+      "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK15",
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": ["A. Oxygen", "B. Carbon Dioxide", "C. Nitrogen", "D. Argon"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK16",
+      "question": "What is the currency of Japan?",
+      "options": ["A. Yuan", "B. Won", "C. Yen", "D. Ringgit"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK17",
+      "question": "The famous Roman building, the Colosseum, is located in which city?",
+      "options": ["A. Milan", "B. Naples", "C. Rome", "D. Venice"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK18",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": [
+        "A. Leonardo da Vinci",
+        "B. Raphael",
+        "C. Michelangelo",
+        "D. Donatello"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK19",
+      "question": "The longest river in the world is generally considered to be the:",
+      "options": [
+        "A. Amazon River",
+        "B. Yangtze River",
+        "C. Nile River",
+        "D. Mississippi River"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK20",
+      "question": "What is the primary function of the red blood cells in the human body?",
+      "options": [
+        "A. Fighting infections",
+        "B. Clotting blood",
+        "C. Transporting oxygen",
+        "D. Producing antibodies"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK21",
+      "question": "The Statue of Liberty was a gift to the US from which country?",
+      "options": ["A. Spain", "B. Germany", "C. France", "D. Italy"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK22",
+      "question": "Which planet is known as the **'Red Planet'**?",
+      "options": ["A. Venus", "B. Jupiter", "C. Mars", "D. Saturn"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK23",
+      "question": "What year did World War I officially begin?",
+      "options": ["A. 1914", "B. 1917", "C. 1939", "D. 1905"],
+      "answers": [0]
+    },
+    {
+      "questionId": "GK24",
+      "question": "What is the speed of light in a vacuum, approximately?",
+      "options": [
+        "A. $3 \\times 10^8$ km/s",
+        "B. $3 \\times 10^8$ m/s",
+        "C. $3 \\times 10^5$ km/s",
+        "D. $3 \\times 10^5$ m/s"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK25",
+      "question": "The term **'democracy'** originated in which ancient civilization?",
+      "options": ["A. Roman", "B. Egyptian", "C. Greek", "D. Mesopotamian"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK26",
+      "question": "Who composed the famous musical piece 'Für Elise'?",
+      "options": [
+        "A. Wolfgang Amadeus Mozart",
+        "B. Ludwig van Beethoven",
+        "C. Johann Sebastian Bach",
+        "D. Frédéric Chopin"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK27",
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "A. Gobi Desert",
+        "B. Antarctic Desert",
+        "C. Arabian Desert",
+        "D. Sahara Desert"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "GK28",
+      "question": "What is the chemical name for common table salt?",
+      "options": [
+        "A. Potassium chloride",
+        "B. Sodium bicarbonate",
+        "C. Sodium chloride",
+        "D. Calcium carbonate"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK29",
+      "question": "Which famous explorer completed the first circumnavigation of the Earth?",
+      "options": [
+        "A. Christopher Columbus",
+        "B. Vasco da Gama",
+        "C. Ferdinand Magellan",
+        "D. James Cook"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK30",
+      "question": "What is the name of the galaxy that contains our Solar System?",
+      "options": [
+        "A. Andromeda Galaxy",
+        "B. Triangulum Galaxy",
+        "C. Milky Way Galaxy",
+        "D. Sombrero Galaxy"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK31",
+      "question": "Who is credited with inventing the printing press?",
+      "options": [
+        "A. Leonardo da Vinci",
+        "B. Johannes Gutenberg",
+        "C. Benjamin Franklin",
+        "D. Thomas Edison"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK32",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["A. Quartz", "B. Steel", "C. Diamond", "D. Tungsten"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK33",
+      "question": "Which African country was formerly known as Abyssinia?",
+      "options": ["A. Sudan", "B. Nigeria", "C. Ethiopia", "D. Kenya"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK34",
+      "question": "In art, what does **sfumato** refer to?",
+      "options": [
+        "A. A technique of painting on wet plaster",
+        "B. The use of strong, contrasting colors",
+        "C. A blending technique allowing tones and colors to shade gradually into one another",
+        "D. A style emphasizing geometric shapes"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK35",
+      "question": "How many time zones is Russia spread across?",
+      "options": ["A. 8", "B. 9", "C. 11", "D. 12"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK36",
+      "question": "Which organ produces insulin in the human body?",
+      "options": ["A. Kidney", "B. Liver", "C. Pancreas", "D. Spleen"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK37",
+      "question": "What is the primary language spoken in Brazil?",
+      "options": ["A. Spanish", "B. French", "C. Portuguese", "D. English"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK38",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "A. Charles Dickens",
+        "B. William Shakespeare",
+        "C. Jane Austen",
+        "D. George Bernard Shaw"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK39",
+      "question": "Which country is separated from India by the Palk Strait?",
+      "options": ["A. Bangladesh", "B. Pakistan", "C. Sri Lanka", "D. Myanmar"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK40",
+      "question": "The scientific study of the stars, planets, and space is called:",
+      "options": ["A. Geology", "B. Meteorology", "C. Astronomy", "D. Biology"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK41",
+      "question": "Which is the largest country in the world by land area?",
+      "options": ["A. Canada", "B. China", "C. United States", "D. Russia"],
+      "answers": [3]
+    },
+    {
+      "questionId": "GK42",
+      "question": "What is the common name for the element Ferrum?",
+      "options": ["A. Copper", "B. Silver", "C. Iron", "D. Lead"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK43",
+      "question": "The historical event known as the **'Black Death'** was caused by:",
+      "options": [
+        "A. Smallpox",
+        "B. Cholera",
+        "C. Bubonic Plague",
+        "D. Typhoid"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK44",
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "A. Thermometer",
+        "B. Anemometer",
+        "C. Barometer",
+        "D. Hydrometer"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK45",
+      "question": "The official language of China is:",
+      "options": ["A. Cantonese", "B. Mandarin", "C. Hakka", "D. Wu"],
+      "answers": [1]
+    },
+    {
+      "questionId": "GK46",
+      "question": "Who is famous for his theory on natural selection and evolution?",
+      "options": [
+        "A. Gregor Mendel",
+        "B. Louis Pasteur",
+        "C. Charles Darwin",
+        "D. Nikola Tesla"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK47",
+      "question": "Which US state is known as the **'Sunshine State'**?",
+      "options": ["A. California", "B. Texas", "C. Florida", "D. Hawaii"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK48",
+      "question": "The Olympic Games are held every how many years?",
+      "options": ["A. 2 years", "B. 3 years", "C. 4 years", "D. 5 years"],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK49",
+      "question": "Which famous structure was built by the Mughal emperor Shah Jahan in memory of his wife?",
+      "options": [
+        "A. Red Fort",
+        "B. Qutb Minar",
+        "C. Taj Mahal",
+        "D. Humayun's Tomb"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "GK50",
+      "question": "What is the phenomenon where a magnet loses its magnetic properties when heated?",
+      "options": [
+        "A. Lenz's Law",
+        "B. Curie Point",
+        "C. Doppler Effect",
+        "D. Hall Effect"
+      ],
+      "answers": [1]
+    }
+  ]
+}

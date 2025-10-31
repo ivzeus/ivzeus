@@ -1,0 +1,345 @@
+{
+  "quizId": "englishQuiz",
+  "quizName": "English Grammar and Vocabulary review (50 questions)",
+  "description": "50 random English quiz questions: Grammar, vocabulary and usage.",
+  "questionPerTest": 20,
+  "testTimeSeconds": 600,
+  "questionaire": [],
+  "questionaireDb": [
+    {
+      "questionId": "E1",
+      "question": "What is the past simple form of the verb 'to go'?",
+      "options": ["A. gone", "B. goed", "C. went", "D. going"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E2",
+      "question": "She is interested _____ learning Spanish.",
+      "options": ["A. on", "B. in", "C. at", "D. with"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E3",
+      "question": "If I had a car, I _____ travel more often.",
+      "options": ["A. will", "B. would", "C. can", "D. should"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E4",
+      "question": "Choose the correct sentence in Present Continuous Tense:",
+      "options": [
+        "A. They play football every Sunday.",
+        "B. They are playing football now.",
+        "C. They played football yesterday.",
+        "D. They have played football."
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "E5",
+      "question": "The synonym of 'huge' is:",
+      "options": ["A. tiny", "B. enormous", "C. slow", "D. quiet"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E6",
+      "question": "He has lived here _____ 2010.",
+      "options": ["A. for", "B. since", "C. in", "D. during"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E7",
+      "question": "Which word is an adjective?",
+      "options": ["A. quickly", "B. happiness", "C. beautiful", "D. run"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E8",
+      "question": "The train leaves _____ 8:00 AM.",
+      "options": ["A. on", "B. in", "C. at", "D. to"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E9",
+      "question": "They _____ to the cinema last night.",
+      "options": ["A. go", "B. are going", "C. went", "D. have gone"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E10",
+      "question": "This is the book _____ I told you about.",
+      "options": ["A. who", "B. whom", "C. which", "D. whose"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E11",
+      "question": "The opposite of 'cheap' is:",
+      "options": ["A. small", "B. expensive", "C. fast", "D. modern"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E12",
+      "question": "He drives _____ than his wife.",
+      "options": [
+        "A. careful",
+        "B. carefully",
+        "C. more careful",
+        "D. more carefully"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "E13",
+      "question": "I look forward to _____ you soon.",
+      "options": ["A. see", "B. seeing", "C. saw", "D. to see"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E14",
+      "question": "The passive voice of 'The students clean the room' is:",
+      "options": [
+        "A. The room is cleaned by the students.",
+        "B. The room was cleaned by the students.",
+        "C. The students are cleaned by the room.",
+        "D. The room has been cleaned."
+      ],
+      "answers": [0]
+    },
+    {
+      "questionId": "E15",
+      "question": "Which sentence uses the correct article?",
+      "options": [
+        "A. I have an dog.",
+        "B. She is a honest person.",
+        "C. He bought an apple.",
+        "D. They live in a Europe."
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "E16",
+      "question": "You should stop _____ so much coffee.",
+      "options": ["A. to drink", "B. drinking", "C. drink", "D. drunk"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E17",
+      "question": "We had a lot of fun _____ the party.",
+      "options": ["A. in", "B. on", "C. at", "D. to"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E18",
+      "question": "She asked me _____ I was enjoying the class.",
+      "options": ["A. that", "B. what", "C. if", "D. how"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E19",
+      "question": "If it rains tomorrow, we _____ stay home.",
+      "options": ["A. would", "B. will", "C. would have", "D. should have"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E20",
+      "question": "The word 'patience' is a(n):",
+      "options": ["A. verb", "B. adverb", "C. noun", "D. adjective"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E21",
+      "question": "He's the _____ man I've ever met.",
+      "options": ["A. richer", "B. richest", "C. more rich", "D. most richer"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E22",
+      "question": "I wish I _____ fly.",
+      "options": ["A. can", "B. could", "C. will", "D. can't"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E23",
+      "question": "How _____ milk do you need?",
+      "options": ["A. many", "B. few", "C. much", "D. a lot"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E24",
+      "question": "The phrasal verb 'take off' means:",
+      "options": [
+        "A. to postpone",
+        "B. to remove clothing or for a plane to leave the ground",
+        "C. to accept",
+        "D. to refuse"
+      ],
+      "answers": [1]
+    },
+    {
+      "questionId": "E25",
+      "question": "They finished the project, _____ was a relief.",
+      "options": ["A. which", "B. who", "C. whom", "D. that"],
+      "answers": [0]
+    },
+    {
+      "questionId": "E26",
+      "question": "Neither John _____ Peter came to the meeting.",
+      "options": ["A. or", "B. nor", "C. and", "D. but"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E27",
+      "question": "When I arrived, they _____ already left.",
+      "options": ["A. have", "B. had", "C. are", "D. was"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E28",
+      "question": "She works hard _____ she can pass the exam.",
+      "options": ["A. because", "B. in order to", "C. so that", "D. despite"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E29",
+      "question": "He apologized _____ being late.",
+      "options": ["A. for", "B. to", "C. about", "D. at"],
+      "answers": [0]
+    },
+    {
+      "questionId": "E30",
+      "question": "My car needs _____ immediately.",
+      "options": ["A. fix", "B. to fixing", "C. to be fixed", "D. fixes"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E31",
+      "question": "The word 'disappointed' is a(n):",
+      "options": ["A. adverb", "B. verb", "C. noun", "D. adjective"],
+      "answers": [3]
+    },
+    {
+      "questionId": "E32",
+      "question": "I prefer tea _____ coffee.",
+      "options": ["A. than", "B. to", "C. from", "D. over"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E33",
+      "question": "If you heat water, it _____.",
+      "options": ["A. boils", "B. will boil", "C. would boil", "D. boiled"],
+      "answers": [0]
+    },
+    {
+      "questionId": "E34",
+      "question": "We went to the market to buy _____ bread.",
+      "options": ["A. a", "B. an", "C. some", "D. many"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E35",
+      "question": "She suggested _____ out for dinner.",
+      "options": ["A. to go", "B. going", "C. go", "D. gone"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E36",
+      "question": "He has been sick _____ three days.",
+      "options": ["A. since", "B. for", "C. in", "D. until"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E37",
+      "question": "The plural form of 'child' is:",
+      "options": ["A. childs", "B. childrens", "C. children", "D. childes"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E38",
+      "question": "You look tired. You _____ take a rest.",
+      "options": ["A. must", "B. should", "C. might", "D. would"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E39",
+      "question": "I regret _____ you that the flight is delayed.",
+      "options": ["A. to tell", "B. telling", "C. told", "D. tell"],
+      "answers": [0]
+    },
+    {
+      "questionId": "E40",
+      "question": "The new shopping mall is _____ the bank and the post office.",
+      "options": ["A. among", "B. between", "C. behind", "D. next"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E41",
+      "question": "We were made _____ all the homework.",
+      "options": ["A. to do", "B. doing", "C. do", "D. done"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E42",
+      "question": "If I were you, I _____ accept the offer.",
+      "options": ["A. will", "B. would", "C. should have", "D. can"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E43",
+      "question": "Choose the correct order of adjectives: 'a/an'",
+      "options": [
+        "A. big wooden old table",
+        "B. old big wooden table",
+        "C. wooden big old table",
+        "D. big old wooden table"
+      ],
+      "answers": [3]
+    },
+    {
+      "questionId": "E44",
+      "question": "The concert was cancelled _____ the heavy rain.",
+      "options": ["A. because", "B. in spite of", "C. due to", "D. although"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E45",
+      "question": "He denied _____ the money.",
+      "options": ["A. to steal", "B. steal", "C. stealing", "D. stolen"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E46",
+      "question": "The word 'frustrating' describes a feeling that makes you:",
+      "options": [
+        "A. happy",
+        "B. relaxed",
+        "C. annoyed or discouraged",
+        "D. excited"
+      ],
+      "answers": [2]
+    },
+    {
+      "questionId": "E47",
+      "question": "She is used to _____ up early.",
+      "options": ["A. wake", "B. waking", "C. woke", "D. wakes"],
+      "answers": [1]
+    },
+    {
+      "questionId": "E48",
+      "question": "We often go _____ in the mountains.",
+      "options": ["A. hiking", "B. to hike", "C. hike", "D. to hiking"],
+      "answers": [0]
+    },
+    {
+      "questionId": "E49",
+      "question": "I think it _____ tomorrow.",
+      "options": ["A. rains", "B. is raining", "C. will rain", "D. had rained"],
+      "answers": [2]
+    },
+    {
+      "questionId": "E50",
+      "question": "The synonym of 'polite' is:",
+      "options": ["A. rude", "B. courteous", "C. lazy", "D. shy"],
+      "answers": [1]
+    }
+  ]
+}

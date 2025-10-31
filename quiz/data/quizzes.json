@@ -1,18 +1,50 @@
 [
   {
-    "quizId": "quyTrinhDauThau",
-    "quizName": "Ôn thi Nghiệp vụ Đấu thầu",
-    "description": "72/270 câu ôn thi Nghiệp vụ Đấu thầu",
-    "questionPerTest": 30,
-    "testTimeSeconds": 1800,
+    "quizId": "cryptoGraphyQuiz",
+    "quizName": "30 Multiple-Choice Questions on Cryptography",
+    "description": "30 random review questions covering fundamental cryptographic concepts, algorithms, and security applications. Use passphrase 'crypto' to enter",
+    "questionPerTest": 10,
+    "testTimeSeconds": 600,
     "encryption": {
-      "challenge": "mLSkuYuaWxvKGYP4oxVGUeyDU1Fgjz+X2tJPlEJcBw==",
-      "salt": "NE0AXas2u9GMdCSA9iw4SQ==",
-      "iv": "cvNhsMbnFuVuMuHR",
+      "challenge": "9vGlg8lOMww9h1iyRLdii3pXOpxtpPULnX1hVRAFCTo=",
+      "salt": "oxqLr7iI9woGJ67w9L08Yg==",
+      "iv": "iW/yiYXKCwLYxhB/",
       "keyDerivation": "PBKDF2",
       "hashAlgorithm": "SHA-256",
       "iterations": 100000
     },
+    "questionaire": []
+  },
+  {
+    "quizId": "englishQuiz",
+    "quizName": "English Grammar and Vocabulary review (50 questions)",
+    "description": "50 random English quiz questions: Grammar, vocabulary and usage.",
+    "questionPerTest": 20,
+    "testTimeSeconds": 600,
+    "questionaire": []
+  },
+  {
+    "quizId": "itQuiz",
+    "quizName": "50 Multiple-Choice Questions on Computer Science/IT",
+    "description": "50 general review questions covering Hardware, Software, Networking, and Cybersecurity.",
+    "questionPerTest": 20,
+    "testTimeSeconds": 600,
+    "questionaire": []
+  },
+  {
+    "quizId": "astroPhysicsQuiz",
+    "quizName": "50 Multiple-Choice Questions on Astrophysics",
+    "description": "50 random review questions covering stellar structure, cosmology, and celestial objects.",
+    "questionPerTest": 20,
+    "testTimeSeconds": 600,
+    "questionaire": []
+  },
+  {
+    "quizId": "generalKnowledgeQuiz",
+    "quizName": "50 Multiple-Choice Questions on General Knowledge",
+    "description": "50 random review questions covering history, science, geography, arts, and culture.",
+    "questionPerTest": 30,
+    "testTimeSeconds": 3000,
     "questionaire": []
   }
 ]
