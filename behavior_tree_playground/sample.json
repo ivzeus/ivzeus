@@ -1,0 +1,41 @@
+{
+  "type": "root",
+  "label": "Root",
+  "children": [
+    {
+      "type": "selector",
+      "label": "Top Selector",
+      "children": [
+        {
+          "type": "decorator",
+          "label": "Inverter",
+          "value": "inverter",
+          "children": [
+            {
+              "type": "sequence",
+              "label": "Main Sequence",
+              "children": [
+                {
+                  "type": "condition",
+                  "label": "Health < 20",
+                  "operator": "less than",
+                  "value": 20
+                },
+                {
+                  "type": "action",
+                  "label": "attack",
+                  "value": "attack"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "label": "guard",
+          "value": "guard"
+        }
+      ]
+    }
+  ]
+}
