@@ -3,9 +3,9 @@
 4:I[97367,["/ivzeus/behavior_tree_playground/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[27201,["/ivzeus/behavior_tree_playground/_next/static/chunks/42879de7b8087bc9.js"],"IconMark"]
-:HL["/ivzeus/behavior_tree_playground/_next/static/chunks/721a5b539e9031eb.css","style"]
+:HL["/ivzeus/behavior_tree_playground/_next/static/chunks/e58b22f51f2cad16.css","style"]
 :HL["/ivzeus/behavior_tree_playground/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ivzeus/behavior_tree_playground/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"MVdosVrY3Wkfsk--mvps_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+0:{"buildId":"r-JGLj7s23uBjCgMzg-r0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Behavior Tree Playground"}],["$","meta","1",{"name":"description","content":"Design and play-test behavior trees"}],["$","link","2",{"rel":"icon","href":"/ivzeus/behavior_tree_playground/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
