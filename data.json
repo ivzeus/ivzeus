@@ -119,6 +119,17 @@
       "link": "./chess_solver/index.html"
     },
     {
+      "title": "GDrive Audio Player",
+      "description": "A minimal audio player that streams music directly from your Google Drive — no server, no hosting, no uploads. Your files stay private in your own Drive.",
+      "tags": [
+        "HTML",
+        "Google Drive",
+        "Audio"
+      ],
+      "icon": "music_note",
+      "link": "https://ivzeus.github.io/gdrive-audio-player/"
+    },
+    {
       "title": "9 Voyages",
       "description": "A Norse-themed remake of PopCap's Seven Seas (2001). The player commands a Viking longship across mythical Nordic waters, defeating enemy fleets using arrow fire and environmental traps.",
       "tags": [
